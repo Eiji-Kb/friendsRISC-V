@@ -2,6 +2,7 @@
 
 「Computer Organization and Design RISC-V Edition」（パタヘネ本）の説明で出てくる単一サイクルのRISC-Vサブセットを、「デジタル回路設計とコンピュータアーキテクチャ」（ハリス本）のVerilogによるMIPSの実装を参考にして実装しました。両教科書を元に学ぶことができます。
 
+![代替テキスト](./fig/single_cycle_diagram.png)
 
 ## 実行について  
 Githubではsrcフォルダとtestフォルダに分けています。冊子の通り実行するには、ローカルPC上で一つのフォルダにまとめて実行してください。
