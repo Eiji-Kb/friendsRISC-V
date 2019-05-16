@@ -1,4 +1,4 @@
-## 🐾Friends RISC-V
+## Friends RISC-V
 
 「Computer Organization and Design RISC-V Edition」（パタヘネ本）の説明で出てくる単一サイクルのRISC-Vサブセットを、「デジタル回路設計とコンピュータアーキテクチャ」（ハリス本）のVerilogによるMIPSの実装を参考にして実装しました。両教科書を元に学ぶことができます。
 
@@ -9,7 +9,7 @@ Githubではsrcフォルダとtestフォルダに分けています。冊子の�
 
 
 
-## 冊子の正誤表
+## 技術書典６頒布第一版の正誤表
 ここにお詫びして訂正いたします。読者の皆様には大変ご迷惑をお掛けしました。
 
 
