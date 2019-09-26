@@ -2,9 +2,9 @@
 
 技術書典７にて、Friends RISC-V改訂第３版リリースしました。電子版はこちら　https://uzuarai.booth.pm/items/1572579
 
-技術書典６，７にて物理本ご入手の方向けの改訂第３版電子版無料ダウンロードはこちら　https://uzuarai.booth.pm/items/1581631
+技術書典６，７にて物理本ご入手の方向けのFriends RISC-V改訂第３版電子版無料ダウンロードはこちら　https://uzuarai.booth.pm/items/1581631
 
-BOOTH版ご入手の方向けの改訂第３版電子版無料ダウンロードはこちら　https://uzuarai.booth.pm/items/1331900
+BOOTH版ご入手の方向けのFriends RISC-V改訂第３版電子版無料ダウンロードはこちら　https://uzuarai.booth.pm/items/1331900
 
 
 ## Friends RISC-V
