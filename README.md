@@ -1,3 +1,12 @@
+## お知らせ
+
+技術書典７にて、Friends RISC-V改訂第３版リリースしました。電子版はこちら　https://uzuarai.booth.pm/items/1572579
+
+技術書典６，７にて物理本ご入手の方向けの改訂第３版電子版無料ダウンロードはこちら　https://uzuarai.booth.pm/items/1581631
+
+BOOTH版ご入手の方向けの改訂第３版電子版無料ダウンロードはこちら　https://uzuarai.booth.pm/items/1331900
+
+
 ## Friends RISC-V
 
 「Computer Organization and Design RISC-V Edition」（パタヘネ本）の説明で出てくる単一サイクルのRISC-Vサブセットを、「デジタル回路設計とコンピュータアーキテクチャ」（ハリス本）のVerilogによるMIPSの実装を参考にして実装しました。両教科書を元に学ぶことができます。
